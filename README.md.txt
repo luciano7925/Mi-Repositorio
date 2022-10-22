@@ -8,5 +8,10 @@ hola
 mundo
 hola
 tercer guardado
+<<<<<<< HEAD
 hola
 as
+=======
+as
+cambio en rama 
+>>>>>>> miespacioprivado
